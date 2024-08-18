@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Package lock files
+package-lock.json
+
+# Environment variables
+.env
+
+# Optional: Ignore dotenv example files
+.env.example
